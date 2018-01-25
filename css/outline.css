@@ -5,8 +5,8 @@
 
 .bordered div, .outlined div {
   display: table-cell;
-  width: 100px;
-  height: 100px;
+  width: 1000px;
+  height: 600px;
 }
 
 .bordered .highlight {
@@ -15,7 +15,7 @@
 }
 
 .outlined .highlight {
-  outline: 10px solid red;
+  outline: 5px solid red;
   background: transparent;
 }
 
